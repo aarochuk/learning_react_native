@@ -24,4 +24,6 @@ const styles = StyleSheet.create({
     shadowRadius: 6, // also necessary for ios shadow
     shadowOpacity: 0.25, // also necessary for ios shadow
   },
+
+  numberInput
 });
